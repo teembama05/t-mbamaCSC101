@@ -20,6 +20,7 @@ fn main(){
         let mut ans:bool = ans.trim().parse().expect("This is an invalid number");
         if ans == false{
             check = false;
+
         }
     }
 }
